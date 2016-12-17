@@ -1,0 +1,11 @@
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/obj/iPhoneSimulator/Debug/optimized/
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/bin/iPhoneSimulator/Debug/ToDo_List.exe.mdb
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/bin/iPhoneSimulator/Debug/ToDo_List.exe
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/obj/iPhoneSimulator/Debug/ToDo_List.exe
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/obj/iPhoneSimulator/Debug/ToDo_List.exe.mdb
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/sethpacheco/Projects/ToDo_List/ToDo_List/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

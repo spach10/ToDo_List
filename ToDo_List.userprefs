@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7DA4A3F5-5710-4E68-9B3F-C1CFD25B2ED5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDo_List/ViewControllers/ViewController.cs">
+    <Files>
+      <File FileName="ToDo_List/ViewControllers/ViewController.cs" Line="13" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDo_List" expanded="True">
+            <Node name="ToDo_List" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewControllers" expanded="True" />
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDo__List PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.43AEC2AC-CD42-4E2B-9437-DDB504FEA25E" />
+</Properties>
